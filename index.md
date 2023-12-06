@@ -6,3 +6,6 @@
 ``` java
 System.out.print("Hello, world!");
 ```
+- [x] Usain the fastest human being alive
+- [x] speed of light is 3*(10^8) m/s
+- [ ] Bugatti is the fastest car
